@@ -19,4 +19,4 @@ $ npm install
 $ npm dev run
 ```
 # Demo
-![image]([webgif.gif](https://github.com/clothn0105700/Movie_IMDB/blob/main/webgif.gif))
+![image](https://github.com/clothn0105700/Movie_IMDB/blob/main/webgif.gif)
