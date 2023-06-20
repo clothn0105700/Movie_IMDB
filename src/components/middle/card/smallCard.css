@@ -1,0 +1,45 @@
+.Swiper {
+  height: 360px;
+}
+
+img {
+  width: 100%;
+  overflow: hidden;
+  transition: 0.3s;
+}
+
+img:hover {
+  transform: scale(1.1);
+}
+
+.poster {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.poster-title {
+  padding-top: 20px;
+  font-size: 14px;
+}
+
+.imdb-rate {
+  color: white;
+  height: 30px;
+  width: 60px;
+  background-color: black;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  border-radius: 20px;
+  border: 2px solid white;
+}
+
+.star {
+  color: yellow;
+  padding-right: 2px;
+}
